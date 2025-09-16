@@ -359,7 +359,7 @@
                     Mi Niñez
                 </h2>
                 <div class="section-content">
-                    Aquí puedes escribir tu narrativa sobre la niñez. Describe tus primeros recuerdos, experiencias importantes, tu familia, primeros años de colegio, juegos favoritos, anécdotas memorables, y todo lo que marcó esta hermosa etapa de tu vida. Recuerda incluir detalles que permitan al lector conocerte mejor y entender las bases que formaron tu personalidad.
+                    Viví toda mi niñez en Bucaramanga, rodeado de mis padres, mi hermanito, mis abuelos, tios y familiares. De niño me encantaban los deportes y jugar con los demás. Fui de las últimas generaciones que tuvimos una niñez sin dispositivos móviles.
                 </div>
             </section>
 

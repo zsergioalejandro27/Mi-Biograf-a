@@ -345,7 +345,7 @@
             </div>
             
             <h1 class="name-display">Sergio Alejandro Amaya Corzo</h1>
-            <p class="location-display">Nacido y criado en Bucaramanga, Colombia. Con padres y un hermano bumangueses, he vivido toda mi vida en Bucaramanga, excepto por seis meses que vivi en la maravillosa isla de Malta</p>
+            <p class="location-display">Nacido y criado en Bucaramanga, Colombia. Con padres y un hermano bumangueses, he vivido toda mi vida en Bucaramanga, excepto por seis meses que vivi en la maravillosa isla de Malta.</p>
         </div>
     </header>
 
@@ -392,7 +392,7 @@
                     Mis Metas y Aspiraciones
                 </h2>
                 <div class="section-content">
-                    Comparte tus metas y sueños para el futuro: aspiraciones profesionales que tienes, objetivos personales importantes, proyectos que planeas desarrollar, lugares que quieres conocer, experiencias que deseas vivir, y todo lo que esperas lograr en los próximos años de tu vida.
+                    Mis metas a corto plazo son: terminar mis estudios, terminar de pagar la carrera a la par que termino materias y aprender un tercer idioma. Y mis metas a largo plazo son: Conseguir una práctica internacional, empezar a destacar en el ámbito laboral de mi carrera, ser políglota, seguir estudiando y aprendiendo mucho haciendo mínimo una máster y una especialización, conventirme en un excelente gestor de proyectos de software y todo un líder tecnológico. Todo eso y mucho más sin dejar de un lado mi salud, el ejercicio, la familia y mi vida personal. El cielo es el límite!
                 </div>
             </section>
         </div>

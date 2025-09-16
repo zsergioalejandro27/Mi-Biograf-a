@@ -381,7 +381,7 @@
                     Mi Presente
                 </h2>
                 <div class="section-content">
-                    Describe a qué te dedicas actualmente: tu trabajo o profesión, estudios que estés realizando, proyectos en los que participas, responsabilidades importantes, logros recientes que has alcanzado, tu estilo de vida actual, y todo lo que define quién eres hoy en día.
+                    A mis 19 años tuve la oportunidad de irme a vivir seis meses en la Isla de Malta, en donde perfecioné mi inglés y abrí mis ojos al mundo. Después regresé a Bucaramanga con hambre y una visión de vida. Desde esa entonces empecé a estudiar ingeniería de sistemas en la Universidad Autónoma de Bucaramanga y conseguí trabajo en Amazon, en el departamento de logistica. A la fecha de hoy (Septiembre 2025) ya voy en séptimo semestre de la carrera y llevo más de tres años en la empresa, practicando mi inglés todos los días y aprendiendo mucho sobre los sistemas, software y todo lo relacionado a mi carrera.
                 </div>
             </section>
 

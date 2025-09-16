@@ -370,7 +370,7 @@
                     Mi Adolescencia
                 </h2>
                 <div class="section-content">
-                    Comparte tu experiencia durante la adolescencia: los cambios que experimentaste, retos que enfrentaste, logros académicos importantes, amistades significativas, hobbies que desarrollaste, decisiones importantes que tomaste, y todo lo que marcó esta etapa de transformación en tu vida.
+                    En mi adolescencia nos mudamos para Floridablanca, otro sector del área metropolitana de Bucaramanga. Muy tranquila, seguí con los deportes, terminé mi bachillerato y empecé a perfeccionar mi inglés y vincularme en todo el mundo de la programación y los sistemas.
                 </div>
             </section>
 

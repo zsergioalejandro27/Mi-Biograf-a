@@ -321,11 +321,11 @@
                 <div class="study-header">
                     <div class="study-icon">🏛️</div>
                     <div class="study-info">
-                        <h2 class="institution-name">Nombre de la Universidad</h2>
+                        <h2 class="institution-name">Universidad Autónoma de Bucaramanga</h2>
                     </div>
                 </div>
                 <div class="study-description">
-                    <p>Describe tu experiencia universitaria. Habla sobre tu carrera, los conocimientos más importantes que has adquirido, proyectos académicos relevantes, tu progreso actual en los estudios, y cómo esta formación está contribuyendo a tu desarrollo profesional.</p>
+                    <p>Estudiante de ingeniería de sistemas desde el segundo semestre de 2022, he adquirido conocimientos en programación, arquitectura de software, ingeniería de software, gestión de proyectos, sistemas y bases de datos. Sin dejar de lado toda la lógica del ciclo básico de ingenierías, matemáticas, calculos, física, entre otros.</p>
                 </div>
             </div>
         </div>

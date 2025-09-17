@@ -224,6 +224,55 @@
             box-shadow: 0 12px 35px rgba(0, 172, 193, 0.4);
         }
 
+        /* Navigation Buttons Section */
+        .navigation-section {
+            text-align: center;
+            margin: 60px 0;
+            padding: 40px 20px;
+        }
+
+        .nav-buttons-container {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+            max-width: 900px;
+            margin: 0 auto;
+        }
+
+        .nav-button {
+            padding: 18px 35px;
+            font-size: 1.1em;
+            font-weight: bold;
+            background: linear-gradient(45deg, #00acc1, #26c6da);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            box-shadow: 0 8px 25px rgba(0, 172, 193, 0.3);
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .nav-button:hover {
+            background: linear-gradient(45deg, #0097a7, #00acc1);
+            transform: translateY(-3px);
+            box-shadow: 0 12px 35px rgba(0, 172, 193, 0.4);
+        }
+
+        .nav-button::before {
+            content: '';
+            width: 20px;
+            height: 20px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 50%;
+        }
+
         /* Animations */
         @keyframes fadeInUp {
             from {
@@ -290,6 +339,18 @@
 
             .main-content {
                 padding: 40px 15px;
+            }
+
+            .nav-buttons-container {
+                flex-direction: column;
+                align-items: center;
+                gap: 20px;
+            }
+
+            .nav-button {
+                width: 100%;
+                max-width: 300px;
+                justify-content: center;
             }
         }
 
@@ -395,6 +456,21 @@
                     Mis metas a corto plazo son: terminar mis estudios, terminar de pagar la carrera a la par que termino materias y aprender un tercer idioma. Y mis metas a largo plazo son: Conseguir una práctica internacional, empezar a destacar en el ámbito laboral de mi carrera, ser políglota, seguir estudiando y aprendiendo mucho haciendo mínimo una máster y una especialización, conventirme en un excelente gestor de proyectos de software y todo un líder tecnológico. Todo eso y mucho más sin dejar de un lado mi salud, el ejercicio, la familia y mi vida personal. El cielo es el límite!
                 </div>
             </section>
+        </div>
+
+        <!-- Navigation Buttons Section -->
+        <div class="navigation-section">
+            <div class="nav-buttons-container">
+                <a href="work" class="nav-button">
+                    Experiencia Laboral
+                </a>
+                <a href="skills" class="nav-button">
+                    Habilidades
+                </a>
+                <a href="studies" class="nav-button">
+                    Experiencia Académica
+                </a>
+            </div>
         </div>
     </main>
 </body>

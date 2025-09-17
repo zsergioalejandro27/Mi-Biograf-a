@@ -377,21 +377,20 @@
                 <div class="skill-header">
                     <div class="skill-icon">🎯</div>
                     <div class="skill-info">
-                        <h2 class="skill-name">Nombre de la Habilidad 2</h2>
-                        <h3 class="skill-category">Categoría (Técnica/Blanda/Específica)</h3>
-                        <span class="skill-level">Nivel de dominio</span>
+                        <h2 class="skill-name">Arquitectura y visión tecnológica</h2>
+                        <h3 class="skill-category">Categoría: Técnica</h3>
+                        <span class="skill-level">Nivel: Intermedio</span>
                     </div>
                 </div>
                 <div class="skill-description">
-                    <p>Detalla tu segunda habilidad más relevante. Menciona cómo esta competencia te diferencia de otros profesionales y qué valor aporta a tu trabajo.</p>
+                    <p>Capacidad de analizar, diseñar y proyectar soluciones tecnológicas enfocadas en arquitectura de software, nube y soluciones empresariales. Tienes una visión clara de combinar la arquitectura de software, arquitectura de nube y arquitectura de soluciones para impactar negocios.</p>
                     
                     <div class="skill-details">
                         <h4>Aspectos destacados:</h4>
                         <div class="skill-details-list">
-                            • Aspecto específico 1<br>
-                            • Herramientas o tecnologías relacionadas<br>
-                            • Proyectos donde la aplicaste<br>
-                            • Resultados o logros obtenidos
+                            • Conocimientos en desarrollo backend (PHP con Laravel, HTML, CSS, Git) y bases de ingeniería de software.<br>
+                            • Avance en certificaciones como AWS Cloud Practitioner para cimentar habilidades en la nube.<br>
+                            • Capacidad de traducir necesidades de negocio en soluciones técnicas estructuradas.<br>
                         </div>
                     </div>
                 </div>

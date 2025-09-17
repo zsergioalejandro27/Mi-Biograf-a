@@ -402,20 +402,19 @@
                     <div class="company-icon">🚀</div>
                     <div class="company-info">
                         <h2 class="company-name">Amazon</h2>
-                        <h3 class="job-title">Cargo/Posición</h3>
-                        <span class="employment-period">Fecha inicio - Fecha fin</span>
+                        <h3 class="job-title">Customer Service Associate XL Specialty</h3>
+                        <span class="employment-period">dic. 2024 - actualidad</span>
                     </div>
                 </div>
                 <div class="job-description">
-                    <p>Detalla tu tercera experiencia laboral. Enfócate en cómo cada experiencia te ha preparado para los desafíos actuales y futuros en tu carrera profesional.</p>
+                    <p>Responsible for taking calls, chats and emails from Amazon customers and drivers related to the XL logistics issues. Solving the contacts with effective communication, empathy and people management skills.</p>
                     
                     <div class="responsibilities">
                         <h4>Responsabilidades principales:</h4>
                         <div class="responsibilities-list">
-                            • Responsabilidad 1<br>
-                            • Responsabilidad 2<br>
-                            • Responsabilidad 3<br>
-                            • Logros destacados
+                            • Responsible for monitoring the shipping and delivery process through customers and drivers for XL deliveries.<br>
+                            • Make escalations for clients in order to find the appropriate solution for their problems.<br>
+                            • Maintain direct communication with the drivers and station personnel to optimize the XL deliveries.<br>
                         </div>
                     </div>
                 </div>

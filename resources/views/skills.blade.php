@@ -354,7 +354,7 @@
                     <div class="skill-icon">⚡</div>
                     <div class="skill-info">
                         <h2 class="skill-name">Liderazgo y mentoría</h2>
-                        <h3 class="skill-category">Habilidad blanda</h3>
+                        <h3 class="skill-category">Categoría: Blanda</h3>
                         <span class="skill-level">Nivel: Avanzado</span>
                     </div>
                 </div>
@@ -401,21 +401,20 @@
                 <div class="skill-header">
                     <div class="skill-icon">🚀</div>
                     <div class="skill-info">
-                        <h2 class="skill-name">Nombre de la Habilidad 3</h2>
-                        <h3 class="skill-category">Categoría (Técnica/Blanda/Específica)</h3>
-                        <span class="skill-level">Nivel de dominio</span>
+                        <h2 class="skill-name">Resiliencia y disciplina personal</h2>
+                        <h3 class="skill-category">Categoría: Específica</h3>
+                        <span class="skill-level">Nivel: Avanzado</span>
                     </div>
                 </div>
                 <div class="skill-description">
-                    <p>Explica tu tercera habilidad clave. Enfócate en cómo esta competencia complementa las anteriores y contribuye a tu perfil profesional integral.</p>
+                    <p>Habilidad para mantener el enfoque, la fe y la determinación incluso en situaciones de dificultad emocional, laboral o académica. Me caracteriza la constancia, el no rendirme y el buscar siempre ser mi mejor versión.</p>
                     
                     <div class="skill-details">
                         <h4>Aspectos destacados:</h4>
                         <div class="skill-details-list">
-                            • Aspecto específico 1<br>
-                            • Herramientas o tecnologías relacionadas<br>
-                            • Proyectos donde la aplicaste<br>
-                            • Resultados o logros obtenidos
+                            • Constancia en balancear estudios, trabajo, ejercicio y desarrollo personal.<br>
+                            • Capacidad de transformar adversidades en motivación y combustible para tus metas.<br>
+                            • Principios sólidos y valores claros que te permiten mantener tu integridad en cualquier circunstancia.<br>
                         </div>
                     </div>
                 </div>

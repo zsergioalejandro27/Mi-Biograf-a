@@ -378,20 +378,19 @@
                     <div class="company-icon">💼</div>
                     <div class="company-info">
                         <h2 class="company-name">Amazon</h2>
-                        <h3 class="job-title">Cargo/Posición</h3>
-                        <span class="employment-period">Fecha inicio - Fecha fin</span>
+                        <h3 class="job-title">Gifted Effective Mentor - SME</h3>
+                        <span class="employment-period">ago. 2023 - dic. 2024</span>
                     </div>
                 </div>
                 <div class="job-description">
-                    <p>Describe tu segunda experiencia laboral más relevante. Menciona cómo esta posición contribuyó a tu crecimiento profesional y qué nuevas competencias adquiriste.</p>
+                    <p>Mentor in charge of the new hires, first hand help, guide them through the policies, meetings, debriefs, contacts and their learning curve. Lead meetings, 1.1s, provide feedback and motivate the new hires to thrive.</p>
                     
                     <div class="responsibilities">
                         <h4>Responsabilidades principales:</h4>
                         <div class="responsibilities-list">
-                            • Responsabilidad 1<br>
-                            • Responsabilidad 2<br>
-                            • Responsabilidad 3<br>
-                            • Logros destacados
+                            • Train and instruct new hires as they progress along their learning curve.<br>
+                            • Responsible for leading team meetings and 1.1 coaching for associates.<br>
+                            • Review the metrics and contacts of new hires to make an action plan to help them improve.<br>
                         </div>
                     </div>
                 </div>
